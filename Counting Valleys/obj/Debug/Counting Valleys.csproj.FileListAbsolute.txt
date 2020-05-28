@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\bin\Debug\Counting Valleys.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\bin\Debug\Counting Valleys.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\bin\Debug\Counting Valleys.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\obj\Debug\Counting Valleys.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\obj\Debug\Counting Valleys.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Counting Valleys\obj\Debug\Counting Valleys.pdb
