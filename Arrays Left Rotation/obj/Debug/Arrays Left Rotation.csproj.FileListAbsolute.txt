@@ -1,0 +1,5 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Arrays Left Rotation\bin\Debug\Arrays Left Rotation.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Arrays Left Rotation\obj\Debug\Arrays Left Rotation.pdb

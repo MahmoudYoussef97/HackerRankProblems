@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\bin\Debug\New Year Chaos.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\bin\Debug\New Year Chaos.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\bin\Debug\New Year Chaos.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\obj\Debug\New Year Chaos.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\obj\Debug\New Year Chaos.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\New Year Chaos\obj\Debug\New Year Chaos.pdb

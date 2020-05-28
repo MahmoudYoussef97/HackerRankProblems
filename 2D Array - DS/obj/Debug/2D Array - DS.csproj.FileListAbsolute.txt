@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\bin\Debug\2D Array - DS.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\bin\Debug\2D Array - DS.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\bin\Debug\2D Array - DS.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\obj\Debug\2D Array - DS.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\obj\Debug\2D Array - DS.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\2D Array - DS\obj\Debug\2D Array - DS.pdb
