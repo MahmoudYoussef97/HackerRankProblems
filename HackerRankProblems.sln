@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimum Swaps 2", "Minimum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Manipulation", "Array Manipulation\Array Manipulation.csproj", "{5FDE2C14-021F-484D-83E5-196B3537217A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hash Tables Ransom Note", "Hash Tables Ransom Note\Hash Tables Ransom Note.csproj", "{C6AEDD66-18D6-4F59-957A-DE01DA5BB942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Strings", "Two Strings\Two Strings.csproj", "{B9C474AB-A576-4933-AA74-EC521510BC22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5FDE2C14-021F-484D-83E5-196B3537217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FDE2C14-021F-484D-83E5-196B3537217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FDE2C14-021F-484D-83E5-196B3537217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AEDD66-18D6-4F59-957A-DE01DA5BB942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AEDD66-18D6-4F59-957A-DE01DA5BB942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AEDD66-18D6-4F59-957A-DE01DA5BB942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AEDD66-18D6-4F59-957A-DE01DA5BB942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C474AB-A576-4933-AA74-EC521510BC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C474AB-A576-4933-AA74-EC521510BC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C474AB-A576-4933-AA74-EC521510BC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C474AB-A576-4933-AA74-EC521510BC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

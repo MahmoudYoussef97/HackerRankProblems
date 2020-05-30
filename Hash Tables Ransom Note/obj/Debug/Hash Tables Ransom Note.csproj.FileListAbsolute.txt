@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\bin\Debug\Hash Tables Ransom Note.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\bin\Debug\Hash Tables Ransom Note.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\bin\Debug\Hash Tables Ransom Note.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\obj\Debug\Hash Tables Ransom Note.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\obj\Debug\Hash Tables Ransom Note.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Hash Tables Ransom Note\obj\Debug\Hash Tables Ransom Note.pdb
