@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\bin\Debug\Minimum Swaps 2.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Minimum Swaps 2\obj\Debug\Minimum Swaps 2.pdb

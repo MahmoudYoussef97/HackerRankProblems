@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\bin\Debug\Array Manipulation.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\bin\Debug\Array Manipulation.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\bin\Debug\Array Manipulation.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\obj\Debug\Array Manipulation.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\obj\Debug\Array Manipulation.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Array Manipulation\obj\Debug\Array Manipulation.pdb

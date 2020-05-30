@@ -40,7 +40,6 @@ class Solution
         Console.WriteLine(minBribes);
         return;
     }
-
     static void Main(string[] args)
     {
         int t = Convert.ToInt32(Console.ReadLine());
