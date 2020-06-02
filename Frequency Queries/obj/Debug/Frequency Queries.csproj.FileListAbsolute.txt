@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\bin\Debug\Frequency Queries.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\bin\Debug\Frequency Queries.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\bin\Debug\Frequency Queries.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\obj\Debug\Frequency Queries.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\obj\Debug\Frequency Queries.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Frequency Queries\obj\Debug\Frequency Queries.pdb

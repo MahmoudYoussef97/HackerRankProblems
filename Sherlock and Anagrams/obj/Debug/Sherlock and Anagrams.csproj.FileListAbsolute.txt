@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\bin\Debug\Sherlock and Anagrams.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\bin\Debug\Sherlock and Anagrams.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\bin\Debug\Sherlock and Anagrams.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\obj\Debug\Sherlock and Anagrams.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\obj\Debug\Sherlock and Anagrams.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Sherlock and Anagrams\obj\Debug\Sherlock and Anagrams.pdb

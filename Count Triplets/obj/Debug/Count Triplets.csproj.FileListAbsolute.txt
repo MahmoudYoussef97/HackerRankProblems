@@ -1,0 +1,6 @@
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\bin\Debug\Count Triplets.exe.config
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\bin\Debug\Count Triplets.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\bin\Debug\Count Triplets.pdb
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\obj\Debug\Count Triplets.csprojAssemblyReference.cache
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\obj\Debug\Count Triplets.exe
+C:\Users\mr_ho\source\repos\HackerRankProblems\Count Triplets\obj\Debug\Count Triplets.pdb
